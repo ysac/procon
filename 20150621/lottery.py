@@ -10,5 +10,7 @@ def solve(n, m, k):
             return "Yes"           
   return "No"
 
-result = solve(3,10,[1,3,5])
+#result = solve(3,10,[1,3,5])
+#result = solve(3,9,[1,3,5])
+result = solve(3,8,[1,3,5])
 print result
